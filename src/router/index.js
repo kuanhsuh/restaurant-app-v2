@@ -1,6 +1,5 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
-// import Home from "../views/Home.vue";
 import Store from "../pages/restaurant/Store.vue";
 
 Vue.use(VueRouter);
